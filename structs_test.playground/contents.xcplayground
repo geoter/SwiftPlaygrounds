@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='classes and structs'/>
+        <page name='didSet class property'/>
+        <page name='didSet struct property'/>
+        <page name='structs and functions'/>
+        <page name='structs and nil'/>
+    </pages>
+</playground>
